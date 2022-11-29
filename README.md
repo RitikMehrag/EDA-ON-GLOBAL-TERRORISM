@@ -6,6 +6,9 @@ Global terrorism is described as the activities involving violence and crime wit
 Python3
 # LIBRARIES USED
 Pandas, Numpy, Matplotlib.pyplot, Seaborn.
-# Numpy -> to perform faster Numerical operations.
-# Pandas -> Provide many functions and makes it simple to work with data.
-# Matplotlib and seaborn -> for Visualization.
+# Numpy
+To perform faster Numerical operations.
+# Pandas
+Provide many functions and makes it simple to work with data.
+# Matplotlib and seaborn
+Used for Visualization.
